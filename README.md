@@ -2,7 +2,7 @@
 Esta prueba hace parte de nuestro proceso de reclutamiento para el rol de desarrollador front-end móvil. El tiempo estimado es de 2h a 3h, dependiendo de su experiencia.
 
 ### Resumen
-El objetivo de esta prueba consiste en integrar el diseño de el home de la app y la vista de un SOAT. [Para acceder al prototypo, seguir este enlace.](https://www.figma.com/proto/lwrRoh6i6nAx2MkzvUnpDH/PuntorPay-v.1-r.1?node-id=803%3A1715&scaling=scale-down-width)
+El objetivo de esta prueba consiste en integrar el diseño de el home de la app y la vista de un SOAT. [Para acceder al prototipo, seguir este enlace.](https://www.figma.com/proto/lwrRoh6i6nAx2MkzvUnpDH/PuntorPay-v.1-r.1?node-id=803%3A1715&scaling=scale-down-width)
 
 Los criterios de evaluación estarán enfocados en como están organizados los componentes y el estilo, la calidad del código, también el resultado del prototipo.
 
