@@ -22,10 +22,20 @@ Es recomendable usar `SCSS` y `CSS modules`, para tener `@import` de esta manera
 
 No es necesario agregar las imágenes a los componentes del home. 
 
+### Endpoints
+
+Los datos para ser renderizados estan disponibles en las siguientes direcciones: 
+
+* https://58a08a99-3100-49a9-8fe4-aacdc715fe86.mock.pstmn.io/puntored/cuenta
+* https://58a08a99-3100-49a9-8fe4-aacdc715fe86.mock.pstmn.io/puntored/cupo
+* https://58a08a99-3100-49a9-8fe4-aacdc715fe86.mock.pstmn.io/puntored/documento
+* https://58a08a99-3100-49a9-8fe4-aacdc715fe86.mock.pstmn.io/puntored/vehiculos
+
 ### Recomendaciones
 * **Flexbox** - Usar Flexbox lo más posible. 
 * **Navegador** - Preocuparse para que sea compatible únicamente con la última versión de Chrome.
-* **Prototipo Figma** - Guiarse con el prototipo hecho en Figma. 
+* **Prototipo Figma** - Guiarse con el prototipo hecho en Figma.
+* **WebGL** - Verificar que su navegador soporte WebGL, y este se encuentre activado.
 
 ### Entrega
 Se recomienda hacer fork a este repositorio y enviarnos el pull request al siguiente correo: alexandre.montoya@puntored.co! Revisaremos el código y daremos un feedback! 
